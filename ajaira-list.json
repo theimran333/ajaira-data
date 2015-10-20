@@ -34,5 +34,17 @@
     {
         "url": "taza-khobor.com",
         "category": ["AjibPortal"]
+    },
+    {
+        "url": "sundaytimes24.com",
+        "category": ["AjibPortal"]
+    },
+    {
+        "url": "vnewsbd.com",
+        "catrgory": ["AjibPortal"]
+    },
+    {
+        "url": "atnnewsbd.com",
+        "category": ["AjibPortal"]
     }
 ]
