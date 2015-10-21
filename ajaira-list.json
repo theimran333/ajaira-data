@@ -46,5 +46,21 @@
     {
         "url": "atnnewsbd.com",
         "category": ["AjibPortal"]
+    },
+    {
+        "url": "hello-today.com",
+        "category": ["AjibPortal"]
+    },
+    {
+        "url": "ournewsbd.com",
+        "category": ["AjibPortal"]
+    },
+    {
+        "url": "newsagency24.com",
+        "category": ["AjibPortal"]
+    },
+    {
+        "url": "newsevent24.com",
+        "category": ["AjibPortal"]
     }
 ]
