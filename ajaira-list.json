@@ -8,6 +8,10 @@
         "category": ["sexual"]
     },
     {
+        "url": "allappy.com",
+        "category": ["sexual"]
+    },
+    {
         "url": "e-worldbd.com",
         "category": ["AjibPortal"]
     },
@@ -56,11 +60,15 @@
         "category": ["AjibPortal"]
     },
     {
-        "url": "newsagency24.com",
+        "url": "amarbd.info",
         "category": ["AjibPortal"]
     },
     {
-        "url": "newsevent24.com",
+        "url": "bangla.mtnews24.com",
+        "category": ["AjibPortal"]
+    },
+    {
+        "url": "crangpur.blogspot.com",
         "category": ["AjibPortal"]
     }
 ]
